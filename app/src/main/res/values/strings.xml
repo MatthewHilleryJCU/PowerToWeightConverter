@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Power To Weight Converter</string>
+    <string name="power">Power</string>
+    <string name="ans_display">0</string>
+    <string name="display_sentence">Display Sentence…</string>
+    <string name="weight">Weight</string>
+    <string name="change_units">Change Units</string>
+    <string name="EnterPower">Enter Vehicle Power</string>
+    <string name="enterWeight">Enter Vehicle Weight</string>
+    <string name="nothing_selected">Nothing Selected</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="dividing_by" translatable="false">Dividing _ by _</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="Error">Error</string>
+    <string name="base_result">0</string>
+    <string name="Kw">Kilowatts</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="power_weight_unit">Please Select Units</string>
+    <string name="kw_t" translatable="false">Kw/t</string>
+    <string name="clear">CLEAR</string>
+    <string name="prefString" translatable="false">spinner</string>
+    <string name="saved_power_default" translatable="false">Kilowatt</string>
+    <string name="saved_power_new" translatable="false">Kilowatt</string>
+    <string name="power_prompt">Chose Power Unit</string>
+    <string name="no_error">Choose The Same Unit Type</string>
+
+    <string-array name="power_arrays">
+        <item>Kilowatt</item>
+        <item>Watt</item>
+        <item>Horsepower</item>
+    </string-array>
+
+    <string-array name="weight_arrays">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Pound</item>
+    </string-array>
+
+</resources>

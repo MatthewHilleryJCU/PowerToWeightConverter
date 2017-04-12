@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F4F4F</color>
+    <color name="colorPrimaryDark">#2F4F4F</color>
+    <color name="colorAccent">#A569BD</color>
+    <color name="GAINSBORO">#DCDCDC</color>
+    <color name="LIGHTSLATEGRAY">#778899</color>
+    <color name="DARKSLATEGRAY">#2F4F4F</color>
+    <color name="spinner_hover">#A9A9A9</color>
+</resources>
